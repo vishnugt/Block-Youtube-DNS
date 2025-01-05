@@ -8,7 +8,8 @@
 
 
 
-### Points to Note:
+### Instructions:
 
 1.  Edit addCronJob.sh line number 4 with the actual path to your location
 2.  Run addCronJob.sh with sudo for the above stated reasons
+3.  Clear Chrome's DNS manually by clearing the DNS cache and flusing sockets by going to chrome://net-internals/#dns and chrome://net-internals/#sockets respectively
